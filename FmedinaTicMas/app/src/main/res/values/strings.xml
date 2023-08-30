@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fmedina.TicMas</string>
+    <string name="iguales">IGUALES</string>
+    <string name="distintos">DISTINTOS</string>
+</resources>
